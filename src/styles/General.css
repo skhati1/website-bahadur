@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+main {
+    padding-top: 60px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    flex-grow: 1;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.slogan {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+/* Main Logo */
+.mainLogo img {
+    display: block;
+    margin-top: 0px;
+    
+    max-width: 100%;
+    height: auto;
+}
+
+/* Footer Section */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #f5f5f5;
+    color: black;
+    border-radius: 8px 8px 0 0;
+    bottom: 0;
+    box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    width: 100%;
+    font-size: 0.9rem;
+    margin-top: auto;
+}
