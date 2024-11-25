@@ -18,12 +18,12 @@ export default function Home() {
 
             <section className="features">
                 <h2>Why Choose Us?</h2>
-                <ul>
+                <p>
                     <li><strong>Experienced Instructors:</strong> Certified and passionate about teaching.</li>
                     <li><strong>Flexible Scheduling:</strong> Lessons that fit your busy life.</li>
                     <li><strong>Safety First:</strong> Structured lessons and defensive driving techniques.</li>
                     <li><strong>Affordable Rates:</strong> High-quality education at competitive prices.</li>
-                </ul>
+                </p>
             </section>
 
             <h3 className="footInfo">Ready to hit the road with confidence? Contact us today to book your lesson or learn more about our courses!</h3>

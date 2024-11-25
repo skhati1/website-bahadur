@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Contact() {
+export default function Resources() {
     return (
         <main>
             <h2>Contact Us</h2>
